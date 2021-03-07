@@ -214,3 +214,10 @@ background-color: #a685e2;
   .btn-contact{
     background: white;
   }
+
+  @media (max-width:1028px)
+  {
+    #Title{
+      text-align: center;
+    }
+  }
